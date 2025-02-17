@@ -1,5 +1,5 @@
 {
-  "name": "KHAN-MD",
+  "name": "سۣۗہيۣۗہقۣۗہ آلَقۣۗہآضۣۗہبۣۗہ",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
   "logo": "https://raw.githubusercontent.com/JawadYTX/KHAN-DATA/refs/heads/main/logo/KHAN.png",
   "keywords": ["KHAN-MD"],
@@ -72,8 +72,8 @@
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_STATUS_MSG": {
@@ -86,20 +86,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "سۣۗہيۣۗہفۣۗہ آلَقۣۗہآضۣۗہيۣۗہ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "967714585737"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "سۣۗہيۣۗہفۣۗہ آلَقۣۗہآضۣۗہيۣۗہ"
 
       }, 
 
@@ -112,8 +112,8 @@
     
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
      "DESCRIPTION": {
