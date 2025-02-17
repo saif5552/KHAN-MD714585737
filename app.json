@@ -1,14 +1,14 @@
 {
   "name": "سۣۗہيۣۗہقۣۗہ آلَقۣۗہآضۣۗہبۣۗہ",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "description": "بۣۗہوۣتۣۗہ وۣآتۣۗہسۣۗہآبۣۗہ مۣۗہنۣۗہ تۣۗہطۣۗہوۣيۣۗہر سۣۗہيۣۗہفۣۗہ آلَقۣۗہآضۣۗہيۣۗہ",
   "logo": "https://raw.githubusercontent.com/JawadYTX/KHAN-DATA/refs/heads/main/logo/KHAN.png",
-  "keywords": ["KHAN-MD"],
+  "keywords": ["سۣۗہيۣۗہفۣۗہ آلَقۣۗہآضۣۗہبۣۗہ"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "KHAN-MD~2iI2yDiT#sUkKYFGW3OLSgpZ4zP7krB01GH7Hrls9H9FNhkTy0uU",
       "required": true,
       "value": ""
     },  
